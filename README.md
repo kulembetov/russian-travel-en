@@ -1,23 +1,24 @@
-# Проект: Путешествие по России
+## Project name
+[Travels in Russia](https://kulembetov.github.io/russian-travel-en)
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+## Description
+A single-page website, was made according to the layout from Figma and adapted for various devices (from 320px). Which tells about interesting places to travel in Russia. Made within the framework of educational activities in [Yandex.Practicum](https://practicum.yandex.ru/) at the faculty ["Web-developer plus"](https://practicum.yandex.ru/web-plus/).
 
-**Интро**
+## Briefs
+* [Layout №1](https://disk.yandex.ru/d/AGS4h2mN5-iGVQ)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Checklists
+* [Checklist №1](https://code.s3.yandex.net/web-developer/checklists-pdf/web-plus/checklist-2.pdf)
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+## Technology stack
+* HTML5
+* CSS3
+* Git
+* BEM methodology using the Nested file structure
+* Adaptive layout
+* Semantic layout
+* Flexbox
+* Grid
+* Positioning
+* Animations and transformations
+* Pseudo-classes
